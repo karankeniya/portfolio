@@ -9,7 +9,7 @@ const DATA = {
   name: "Karan Keniya",
   title: "MS Business Analytics Candidate | Data & Marketing Analyst",
   location: "Montclair, New Jersey",
-  email: "keniakaran@gmail.com",
+  email: "karan06keniya@gmail.com",
   phone: "8623481568",
   linkedin: "www.linkedin.com/in/karan-keniya",
   summary: "Turning complex business data into clear stories that drive growth blending analytics, creativity, and strategy. With hands-on expertise in Power BI, Tableau, SQL, Python, and CRM platforms, I bridge the space between technical problem-solving and business impact.",
